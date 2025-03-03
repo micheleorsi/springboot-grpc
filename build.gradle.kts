@@ -21,7 +21,7 @@ repositories {
 	mavenCentral()
 }
 
-extra["springGrpcVersion"] = "0.3.0"
+extra["springGrpcVersion"] = "0.4.0-SNAPSHOT"
 
 dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-actuator")
